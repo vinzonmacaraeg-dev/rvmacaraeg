@@ -1,1 +1,13 @@
+# Mission Reflection
 
+After completing this mission, I gained a better understanding of AWS, Microsoft Azure, and Google Cloud Platform (GCP) and their applications in real-world businesses. Before this activity, I only had a basic idea that cloud platforms were mainly used for storing data and running applications. Through my research, I discovered the key differences between the major cloud providers and learned that while they offer many similar services, each platform has its own unique features and strengths.
+
+The cloud platform that impressed me the most was **AWS** because it provides a wide range of cloud services. Services such as **Amazon EC2, Amazon S3, Amazon RDS, and Amazon VPC** can be used for computing, storage, databases, and networking. I also learned that AWS can support both small startups and large companies because its resources can be scaled depending on their needs.
+
+AWS, Azure, and GCP share many common features and services. All three cloud providers offer virtual machines, storage, databases, networking, identity management, and Kubernetes. They allow organizations to access cloud resources without needing to manage their own physical hardware. Additionally, each platform supports scalability, security, and high availability, making them suitable for a wide range of business and IT requirements.
+
+I learned that business needs play an important role in choosing the right cloud platform. For instance, a university that already relies on Windows Server, Microsoft 365, and Active Directory may find Azure more suitable because of its strong integration with Microsoft technologies. An AI research organization may prefer GCP due to its advanced artificial intelligence and machine learning services, while a startup may choose AWS because of its broad range of services and ability to scale as the business grows.
+
+By acting as a Cloud Solutions Consultant, I learned that **there is no single cloud provider that is perfect for every organization**. A good recommendation should consider the company's **budget, existing technology, performance, security, scalability, and future goals**. This helped me understand that technical decisions should be based on the actual problem that needs to be solved.
+
+My GitHub Cloud Computing Portfolio also improved after completing this mission. I added **research files, comparison tables, client recommendations, screenshots, and a reflection**. I also practiced using **Markdown, GitHub, and proper documentation**. Overall, this mission improved my understanding of cloud computing and helped me develop **research, analysis, documentation, and decision-making skills** that I can use as a future IT professional.
